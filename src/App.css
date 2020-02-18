@@ -1,0 +1,14 @@
+H1 {
+    text-decoration: underline;
+    margin-left:20px;
+}
+p{
+    margin-left:50px;
+}
+
+input{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 500px;
+    height: 25px;
+}
